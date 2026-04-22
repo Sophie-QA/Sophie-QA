@@ -49,7 +49,7 @@ I manage the final check-off process before any service is delivered to our clie
 ## 🤝 For Quality Audits & Bulk Support
 If you require high-volume audits or custom technical support:
 
-- **Founder:** Mike (@GMBSells-Dev)
+- **Founder:** Mike [@GMBSells-Dev](https://github.com/GMBSells-dev)
 - **Official Site:** [gmbsells.com](https://gmbsells.com)
 - **Telegram Support:** [@GMBSells24](https://t.me/GMBSells24)
 - **Email:** gmbsells.info@gmail.com
